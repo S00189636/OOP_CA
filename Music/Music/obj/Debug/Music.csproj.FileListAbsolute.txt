@@ -1,0 +1,7 @@
+C:\Users\s00189636\OneDrive - Institute of Technology Sligo\OOP_CA\Music\Music\bin\Debug\Music.exe.config
+C:\Users\s00189636\OneDrive - Institute of Technology Sligo\OOP_CA\Music\Music\bin\Debug\Music.exe
+C:\Users\s00189636\OneDrive - Institute of Technology Sligo\OOP_CA\Music\Music\bin\Debug\Music.pdb
+C:\Users\s00189636\OneDrive - Institute of Technology Sligo\OOP_CA\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+C:\Users\s00189636\OneDrive - Institute of Technology Sligo\OOP_CA\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+C:\Users\s00189636\OneDrive - Institute of Technology Sligo\OOP_CA\Music\Music\obj\Debug\Music.exe
+C:\Users\s00189636\OneDrive - Institute of Technology Sligo\OOP_CA\Music\Music\obj\Debug\Music.pdb
